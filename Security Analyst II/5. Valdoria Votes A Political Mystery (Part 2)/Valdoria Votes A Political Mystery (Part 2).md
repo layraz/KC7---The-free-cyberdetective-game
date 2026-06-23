@@ -214,7 +214,7 @@ Now we should try to understand how to use the data available to us to conduct o
 
 Here are the available data tables. Let's figure out how we can use these!
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image.png)
+![image.png](./image.png)
 
 **Which table would tell us if Barry Schmelly received a suspicious email?**
 
@@ -261,7 +261,7 @@ You're unstoppable! 😤 Let's do one more.
 
 ## Question 1
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%201.png)
+![image.png](./image%201.png)
 
 An unknown hacking group claims to have compromised the voting machines in Valdoria.
 
@@ -283,7 +283,7 @@ To read more about Operational Security (OPSEC) click [here](https://www.csoonl
 > `55.49.227.170`
 > 
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%202.png)
+![image.png](./image%202.png)
 
 ## Question 3
 
@@ -410,7 +410,7 @@ In the first record we have of their activity, the hackers seemed focused on lea
 > `new hires`
 > 
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%203.png)
+![image.png](./image%203.png)
 
 ## Question 12
 
@@ -474,7 +474,7 @@ The page appears to be some sort of login page…
 
 Could it be a phishing page😱?
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%204.png)
+![image.png](./image%204.png)
 
 **Did anyone enter their credentials on that phishing page ? (yes/no)**
 
@@ -537,7 +537,7 @@ Employees
 
 Luckily, we have pretty strict guidance, and Snooper should have enabled Multi-Factor Authentication, so this shouldn't be a big deal—as long as Snooper followed it, this shouldn't be a big deal at all!
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%205.png)
+![image.png](./image%205.png)
 
 **Did Snooper have Multiple Factor Authentication enabled (yes/no)**
 
@@ -546,7 +546,7 @@ Luckily, we have pretty strict guidance, and Snooper should have enabled Multi-F
 
 ## Question 23
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%206.png)
+![image.png](./image%206.png)
 
 Ugh! Looks like someone didn't bother to follow the security guidelines! Thanks to that slip-up, the threat actor managed to log into Snooper's account.
 
@@ -614,7 +614,7 @@ Email
 | project recipient, subject
 ```
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%207.png)
+![image.png](./image%207.png)
 
 ## Question 3
 
@@ -662,7 +662,7 @@ Email
 | project recipient, subject
 ```
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%208.png)
+![image.png](./image%208.png)
 
 ## Question 6
 
@@ -682,7 +682,7 @@ Email
 | project subject
 ```
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%209.png)
+![image.png](./image%209.png)
 
 ## Question 7
 
@@ -690,7 +690,7 @@ Email
 
 And what do we you do when we don't know something?
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%2010.png)
+![image.png](./image%2010.png)
 
 …Let's see if we can spot his guess attempts by tracking "his" browsing.
 
@@ -717,7 +717,7 @@ InboundNetworkEvents
 | project url
 ```
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%2011.png)
+![image.png](./image%2011.png)
 
 ## Question 9
 
@@ -736,14 +736,14 @@ The status codes returned could help us identify when Snooper’s guesses were u
 
 These codes show that he attempted to visit several webpages that weren’t found. In contrast, a '200' status code would indicate a successful page visit.
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%2012.png)
+![image.png](./image%2012.png)
 
 **What status code was returned for `Snooper's` unsuccessful guesses?**
 
 > `404`
 > 
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%2013.png)
+![image.png](./image%2013.png)
 
 ## Question 11
 
@@ -754,7 +754,7 @@ After many failed guesses, it seems Snooper was getting desperate! One of the su
 > `ol-mcdonald-had-a-farm-ai-ai-oh`
 > 
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%2014.png)
+![image.png](./image%2014.png)
 
 ## Question 12
 
@@ -765,7 +765,7 @@ After many failed guesses, it seems Snooper was getting desperate! One of the su
 > `allen iverson`
 > 
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%2015.png)
+![image.png](./image%2015.png)
 
 ## Question 13
 
@@ -782,7 +782,7 @@ InboundNetworkEvents
 | project url
 ```
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%2016.png)
+![image.png](./image%2016.png)
 
 ## Question 14
 
@@ -900,7 +900,7 @@ After investigating, we discovered that a call was made to the company helpdesk 
 
 We managed to capture a transcript of the call here:
 
-![image.png](Valdoria%20Votes%20A%20Political%20Mystery%20(Part%202)/image%2017.png)
+![image.png](./image%2017.png)
 
 **Type `thisiswhywecanthavenicethings` to continue.**
 
