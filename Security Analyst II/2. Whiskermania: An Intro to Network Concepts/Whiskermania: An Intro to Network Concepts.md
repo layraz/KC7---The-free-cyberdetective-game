@@ -1310,7 +1310,7 @@ This shows when each compromised host started beaconing and how many times they'
 > `5`
 > 
 
-![image.png](Whiskermania%20An%20Intro%20to%20Network%20Concepts/image.png)
+![image.png](./image.png)
 
 ## Question 33
 
