@@ -177,7 +177,7 @@ Otherwise, put `From Hex` in the recipe panel, and this string in the input pa
 
 Have you noticed the small wand next to the word "Output" in CyberChef?
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image.png)
+![image.png](./image.png)
 
 It means it has detected the encoding, and you don't even need to come up with a recipe yourself!
 
@@ -192,7 +192,7 @@ Try it with the following secret:
 > `from binary from hex`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%201.png)
+![image.png](./image%201.png)
 
 # Section 2: Adult Steps
 
@@ -255,11 +255,11 @@ Encoding Shift (8) + Decoding Shift (18) = Total letters (26)
 
 </aside>
 
-![Cyberchef output](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%202.png)
+![Cyberchef output](./image%202.png)
 
 Cyberchef output
 
-![[dcode.fr](http://dcode.fr) output](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%203.png)
+![[dcode.fr](http://dcode.fr) output](./image%203.png)
 
 [dcode.fr](http://dcode.fr) output
 
@@ -305,7 +305,7 @@ To encrypt something with XOR, you need to give it a key. Bring up the `XOR` o
 > `This is XORcery x.x`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%204.png)
+![image.png](./image%204.png)
 
 ## Question 5
 
@@ -322,7 +322,7 @@ A lot of results appear, it's all the attempts made by CyberChef, with the key t
 > `1e`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%205.png)
+![image.png](./image%205.png)
 
 # Section 3: Running
 
@@ -344,7 +344,7 @@ Let's put into practice all you've learned so far by solving some challenges!
 > `Double encoding don't scare me.`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%206.png)
+![image.png](./image%206.png)
 
 ## Question 3
 
@@ -355,7 +355,7 @@ Let's put into practice all you've learned so far by solving some challenges!
 > `Not even when you throw B64 in the mix!`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%207.png)
+![image.png](./image%207.png)
 
 ## Question 4
 
@@ -368,7 +368,7 @@ Noticing this kind of pattern and remembering them will help you figure out deco
 > `MDE`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%208.png)
+![image.png](./image%208.png)
 
 ## Question 5
 
@@ -381,7 +381,7 @@ You're good! Let's ramp it up 😈 The magic wand won't save you now!
 > `A triple? Don't you have something harder for me?`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%209.png)
+![image.png](./image%209.png)
 
 ## Question 6
 
@@ -394,7 +394,7 @@ Do you feel challenged yet? 😅
 > `You can add as many steps as you want, I ain't scared.`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%2010.png)
+![image.png](./image%2010.png)
 
 ## Question 7
 
@@ -428,7 +428,7 @@ Just decode its payload with CyberChef.
 > `yeah I guess this one was a bit evil`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%2011.png)
+![image.png](./image%2011.png)
 
 # Section 4: Cartwheels
 
@@ -451,7 +451,7 @@ Try it here.
 > `Cetacean_Cipher_Decode()`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%2012.png)
+![image.png](./image%2012.png)
 
 ## Question 2
 
@@ -472,11 +472,11 @@ Remember, this is the type of challenge you might find in a CTF, and research is
 > `KELLAMITY WROTE SMS THIS WAY ONCE UPON A TIME DONT MENTION IT TO THEM`
 > 
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%2013.png)
+![image.png](./image%2013.png)
 
 Click on the result and decrypt multi-tap as:
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%2014.png)
+![image.png](./image%2014.png)
 
 ## Question 3
 
@@ -486,7 +486,7 @@ Like this one:
 
 ![image of the challenge](https://kc7photos-cfhbcabpaxb2f8fn.z03.azurefd.net/photos/D101S4Q3.png)
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%2015.png)
+![image.png](./image%2015.png)
 
 What can you do in this case? A websearch will often do the trick. Reverse image search in particular can be helpful.
 
@@ -499,7 +499,7 @@ Once you've identified a potential cipher, use dcode.fr to decode it, they have 
 
 From Google Image search, it is a Pigpen cipher, a geometric substitution cipher.
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%2016.png)
+![image.png](./image%2016.png)
 
 ## Question 4
 
@@ -516,7 +516,7 @@ Note that the / are word separators, they might throw off some identifiers, like
 
 After identifying the cipher using `dcode.fr`, it is supposed to be Morse Code.
 
-![image.png](Decoding%20101%20A%20beginner%E2%80%99s%20guide%20to%20decoding/image%2017.png)
+![image.png](./image%2017.png)
 
 ## Question 5
 
