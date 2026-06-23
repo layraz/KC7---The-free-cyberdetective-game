@@ -336,7 +336,7 @@ InboundNetworkEvents
 | project-keep url
 ```
 
-![image.png](Solvi%20Systems%20A%20tale%20of%20Supply%20Chains%20and%20ICS/image.png)
+![image.png](./image.png)
 
 ### Question 12
 
@@ -633,7 +633,7 @@ ProcessEvents
 | project-keep process_commandline
 ```
 
-![image.png](Solvi%20Systems%20A%20tale%20of%20Supply%20Chains%20and%20ICS/image%201.png)
+![image.png](./image%201.png)
 
 ### Question 3
 
@@ -657,7 +657,7 @@ NetworkFlow
 | summarize count() by timestamp
 ```
 
-![image.png](Solvi%20Systems%20A%20tale%20of%20Supply%20Chains%20and%20ICS/image%202.png)
+![image.png](./image%202.png)
 
 ### Question 5
 
@@ -715,7 +715,7 @@ ProcessEvents
 | project-keep process_commandline
 ```
 
-![image.png](Solvi%20Systems%20A%20tale%20of%20Supply%20Chains%20and%20ICS/image%203.png)
+![image.png](./image%203.png)
 
 ### Question 10
 
@@ -735,7 +735,7 @@ We can find these discovery commands.
 > `net use`
 > 
 
-![image.png](Solvi%20Systems%20A%20tale%20of%20Supply%20Chains%20and%20ICS/image%204.png)
+![image.png](./image%204.png)
 
 # Section 5: A shocking ending
 
@@ -897,7 +897,7 @@ InboundNetworkEvents
 | where url has "internal"
 ```
 
-![image.png](Solvi%20Systems%20A%20tale%20of%20Supply%20Chains%20and%20ICS/image%205.png)
+![image.png](./image%205.png)
 
 ### Question 13
 
