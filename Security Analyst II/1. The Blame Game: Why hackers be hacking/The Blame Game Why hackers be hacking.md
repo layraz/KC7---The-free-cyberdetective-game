@@ -193,7 +193,7 @@ It was eventually traced back to Sandworm, a unit of Russian military intelligen
 > `false flag`
 > 
 
-![image.png](The%20Blame%20Game%20Why%20hackers%20be%20hacking/image.png)
+![image.png](./image.png)
 
 ## Question 3
 
