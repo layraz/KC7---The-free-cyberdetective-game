@@ -77,7 +77,7 @@ Email
 | where timestamp between (datetime(2024-01-16T00:00:00.000Z)..datetime(2024-01-16T15:25:23.000Z))
 ```
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image.png)
+![image.png](./image.png)
 
 ## Question 4
 
@@ -169,7 +169,7 @@ OutboundNetworkEvents
 | project timestamp, url
 ```
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image%201.png)
+![image.png](./image%201.png)
 
 ## Question 9
 
@@ -180,7 +180,7 @@ OutboundNetworkEvents
 > `https://www.wikihow.com/Use-a-USB-Flash-Drive`
 > 
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image%202.png)
+![image.png](./image%202.png)
 
 ## Question 10
 
@@ -254,7 +254,7 @@ ProcessEvents
 | project timestamp, process_name, process_commandline
 ```
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image%203.png)
+![image.png](./image%203.png)
 
 ## Question 14
 
@@ -267,7 +267,7 @@ Barry stored a few extra sensitive files on his flash drive.
 > `SchmellyDrive`
 > 
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image%204.png)
+![image.png](./image%204.png)
 
 ## Question 15
 
@@ -286,7 +286,7 @@ Although it's too late to stop him, it's a good thing we were able to detect thi
 
 Some employees have said that they can't use their computers. One employee mentioned that they saw this suspicious file show up on their system.
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image%205.png)
+![image.png](./image%205.png)
 
 **What is the filename of this note?**
 
@@ -870,7 +870,7 @@ Mimikatz is a popular credential dumping tool used by malicious actors.
 > `S0002`
 > 
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image%206.png)
+![image.png](./image%206.png)
 
 ## Question 4
 
@@ -1237,7 +1237,7 @@ InboundNetworkEvents
 | project url
 ```
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image%207.png)
+![image.png](./image%207.png)
 
 ## Question 11
 
@@ -1256,7 +1256,7 @@ Email
 | project recipient, subject
 ```
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image%208.png)
+![image.png](./image%208.png)
 
 ## Question 12
 
@@ -1267,7 +1267,7 @@ What a plan they've hatched! And they almost got away with it.
 > `182.56.23.121`
 > 
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image%209.png)
+![image.png](./image%209.png)
 
 ## Question 13
 
@@ -1286,7 +1286,7 @@ FileCreationEvents
 | distinct filename
 ```
 
-![image.png](Inside%20Encryptodera%20An%20Insider%20Threat%20Scenario/image%2010.png)
+![image.png](./image%2010.png)
 
 ## Question 14
 
